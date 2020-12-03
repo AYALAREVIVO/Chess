@@ -19,5 +19,9 @@ create file :FileStream
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-##Authors:
+## Authors
+
 ayala revivo
+ar0527167617@gmail.com
+ 
+
