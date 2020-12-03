@@ -1,0 +1,14 @@
+W:\c#\chess\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+W:\c#\chess\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+W:\c#\chess\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+W:\c#\chess\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+W:\c#\chess\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+W:\c#\chess\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+W:\c#\chess\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\chess\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\chess\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\chess\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\chess\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\chess\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\chess\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\chess\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
