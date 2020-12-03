@@ -1,33 +1,23 @@
-# chess
+# chees
 
-TODO: A two-player chess game
+A chess game for two participants
 
-## התקנה
+## Installation
 
-TODO: Download and run the .exe file
+Download and run the .exe file
 
+## Usage
 
-## שימוש
-
-TODO: The game is suitable for two participants
+he game is suitable for two participants
 Each participant in turn (according to the computer instruction) writes the name of the tool he wants to move and the new location
 
-## תורם
+## External Libraries Used
 
-1. מזלג אותו!
-2. צור את ענף התכונות שלך: 'git checkout -b my-new-feature'
-3. התחייב בשינויים שלך: "git commit -am 'הוסף תכונה כלשהי'"
-4. דחף לסניף: 'git push origin my-new-feature'
-5. הגש בקשת משיכה: ד
+create file :FileStream
 
-## היסטוריה
+## Contributing
 
-TODO: כתוב היסטוריה
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## נקודות זכות
-
-TODO: כתוב נקודות זכות
-
-## רישיון
-
-TODO: כתוב רישיון
+##Authors:
+ayala revivo
